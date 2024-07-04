@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBGz0dc4OZfRkQmy1PAisHns30QLFm7X3k',
+    apiKey: '',
     appId: '1:230261594477:ios:509de37635213467bb2264',
     messagingSenderId: '230261594477',
     projectId: 'chat-app-6ed71',
